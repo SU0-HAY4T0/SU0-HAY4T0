@@ -7,7 +7,7 @@
 
 
 
-[strawpage](https://straw.page) [roblox](https://www.roblox.com/users/5867231962/profile)[rentry](https://rentry.co)[ata](https://google.com)
+[strawpage](https://straw.page) [roblox](https://www.roblox.com/users/5867231962/profile) [rentry](https://rentry.co) [ata](https://google.com)
 
 
 some of it doesn't work yet
