@@ -6,6 +6,6 @@
 <img width="1627" height="721" alt="j2le6t" src="https://github.com/user-attachments/assets/1fbb1a5b-8856-4eb9-b822-975fdd4d8e5b" />
 
 
-<text x="10" y="15" fill="pink">Hello</text>
+<text x="10" y="15" fill="red">Hello</text>
 
 
