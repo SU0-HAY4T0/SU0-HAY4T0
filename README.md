@@ -6,5 +6,5 @@
 <img width="1627" height="721" alt="j2le6t" src="https://github.com/user-attachments/assets/1fbb1a5b-8856-4eb9-b822-975fdd4d8e5b" />
 
 
-![pink](https://img.shields.io/badge/hello-pink-ff69b4)
+![pink](https://img.shields.io/badge/hi-hi-ff69b4)
 
