@@ -7,6 +7,6 @@
 
 
 
-          [strawpage](https://yukkotsu.straw.page/)
+[strawpage](https://yukkotsu.straw.page/)
 
 
